@@ -1,4 +1,6 @@
-[
+{
+  "glass":
+ [
   {
     "id": "05.E01_4B-7",
     "Scope / section": "units_bop_5_8",
@@ -35,3 +37,4 @@
     "Glazing name": "4B-7",
   },
  ]
+}
