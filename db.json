@@ -1,40 +1,39 @@
 {
-"glass":
- [
-  {
-    "id": "05.E01_4B-7",
-    "Scope / section": "units_bop_5_8",
-    "Facade unit mark": "05.E01",
-    "Glazing type (standart or with drawing)": "G",
-    "Glazing name": "4B-7",
-     },
-  {
-    "id": "05.E01a_4B-4",
-    "Scope / section": "units_bop_5_8",
-    "Facade unit mark": "05.E01a",
-    "Glazing type (standart or with drawing)": "G",
-    "Glazing name": "4B-4",
-  },
-  {
-    "id": "05.E02_4B-7",
-    "Scope / section": "units_bop_5_8",
-    "Facade unit mark": "05.E02",
-    "Glazing type (standart or with drawing)": "G",
-    "Glazing name": "4B-7",
-  },
-  {
-    "id": "05.E02a_4B-4",
-    "Scope / section": "units_bop_5_8",
-    "Facade unit mark": "05.E02a",
-    "Glazing type (standart or with drawing)": "G",
-    "Glazing name": "4B-4",
-  },
-  {
-    "id": "05.E03_4B-7",
-    "Scope / section": "units_bop_5_8",
-    "Facade unit mark": "05.E03",
-    "Glazing type (standart or with drawing)": "G",
-    "Glazing name": "4B-7",
-  },
- ],
+   "glass":[
+      {
+         "id":"05.E01_4B-7",
+         "Scope / section":"units_bop_5_8",
+         "Facade unit mark":"05.E01",
+         "Glazing type (standart or with drawing)":"G",
+         "Glazing name":"4B-7"
+      },
+      {
+         "id":"05.E01a_4B-4",
+         "Scope / section":"units_bop_5_8",
+         "Facade unit mark":"05.E01a",
+         "Glazing type (standart or with drawing)":"G",
+         "Glazing name":"4B-4"
+      },
+      {
+         "id":"05.E02_4B-7",
+         "Scope / section":"units_bop_5_8",
+         "Facade unit mark":"05.E02",
+         "Glazing type (standart or with drawing)":"G",
+         "Glazing name":"4B-7"
+      },
+      {
+         "id":"05.E02a_4B-4",
+         "Scope / section":"units_bop_5_8",
+         "Facade unit mark":"05.E02a",
+         "Glazing type (standart or with drawing)":"G",
+         "Glazing name":"4B-4"
+      },
+      {
+         "id":"05.E03_4B-7",
+         "Scope / section":"units_bop_5_8",
+         "Facade unit mark":"05.E03",
+         "Glazing type (standart or with drawing)":"G",
+         "Glazing name":"4B-7"
+      }
+   ]
 }
